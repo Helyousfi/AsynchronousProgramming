@@ -1,0 +1,16 @@
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\bin\Debug\AsyncAwaitProject.exe.config
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\bin\Debug\AsyncAwaitProject.exe
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\bin\Debug\AsyncAwaitProject.pdb
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\obj\Debug\AsyncAwaitProject.csproj.AssemblyReference.cache
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\obj\Debug\AsyncAwaitProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\obj\Debug\MainWindow.g.cs
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\obj\Debug\App.g.cs
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\obj\Debug\AsyncAwaitProject_MarkupCompile.cache
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\obj\Debug\AsyncAwaitProject_MarkupCompile.lref
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\obj\Debug\MainWindow.baml
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\obj\Debug\AsyncAwaitProject.g.resources
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\obj\Debug\AsyncAwaitProject.Properties.Resources.resources
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\obj\Debug\AsyncAwaitProject.csproj.GenerateResource.cache
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\obj\Debug\AsyncAwaitProject.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\obj\Debug\AsyncAwaitProject.exe
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject\obj\Debug\AsyncAwaitProject.pdb

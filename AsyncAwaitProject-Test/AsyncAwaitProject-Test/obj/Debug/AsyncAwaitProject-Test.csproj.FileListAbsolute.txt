@@ -1,0 +1,8 @@
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject-Test\AsyncAwaitProject-Test\bin\Debug\AsyncAwaitProject-Test.exe.config
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject-Test\AsyncAwaitProject-Test\bin\Debug\AsyncAwaitProject-Test.exe
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject-Test\AsyncAwaitProject-Test\bin\Debug\AsyncAwaitProject-Test.pdb
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject-Test\AsyncAwaitProject-Test\obj\Debug\AsyncAwaitProject-Test.csproj.AssemblyReference.cache
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject-Test\AsyncAwaitProject-Test\obj\Debug\AsyncAwaitProject-Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject-Test\AsyncAwaitProject-Test\obj\Debug\AsyncAwaitProject-Test.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject-Test\AsyncAwaitProject-Test\obj\Debug\AsyncAwaitProject-Test.exe
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AsyncAwaitProject\AsyncAwaitProject-Test\AsyncAwaitProject-Test\obj\Debug\AsyncAwaitProject-Test.pdb

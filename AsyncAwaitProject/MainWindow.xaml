@@ -1,0 +1,44 @@
+﻿<Window x:Class="AsyncAwaitProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AsyncAwaitProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" 
+                   Margin="0 10 0 5"
+                   FontSize="28"
+                   Text="Asynchronous/Parallel Demo Application"/>
+        <Button Grid.Row="1" 
+                Margin="0 5 0 5"
+                FontSize="20"
+                x:Name="executeNormal" 
+                Content="Normal Execute" Click="executeNormal_Click"/>
+        <Button Grid.Row="2" 
+                Margin="0 5 0 5" 
+                x:Name="executeAsync" 
+                FontSize="20"
+                Content="Async Execute" Click="executeAsync_Click"/>
+        <Button Grid.Row="3" 
+                Margin="0 5 0 5" 
+                x:Name="executeAsyncParallel" 
+                FontSize="20"
+                Content="Async Parallel Execute" Click="executeAsyncParallel_Click"/>
+
+        <Border Grid.Row="4" Margin="0 5 0 10" BorderThickness="2" BorderBrush="Gray">
+            <TextBlock 
+                FontSize="18"
+                x:Name="resultWindow"/>
+        </Border>
+
+    </Grid>
+</Window>
