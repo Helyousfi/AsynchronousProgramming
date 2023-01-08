@@ -1,0 +1,16 @@
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\bin\Debug\AdvancedAsyncAwait.exe.config
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\bin\Debug\AdvancedAsyncAwait.exe
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\bin\Debug\AdvancedAsyncAwait.pdb
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\obj\Debug\AdvancedAsyncAwait.csproj.AssemblyReference.cache
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\obj\Debug\AdvancedAsyncAwait.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\obj\Debug\MainWindow.g.cs
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\obj\Debug\App.g.cs
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\obj\Debug\AdvancedAsyncAwait_MarkupCompile.cache
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\obj\Debug\AdvancedAsyncAwait_MarkupCompile.lref
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\obj\Debug\MainWindow.baml
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\obj\Debug\AdvancedAsyncAwait.g.resources
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\obj\Debug\AdvancedAsyncAwait.Properties.Resources.resources
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\obj\Debug\AdvancedAsyncAwait.csproj.GenerateResource.cache
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\obj\Debug\AdvancedAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\obj\Debug\AdvancedAsyncAwait.exe
+C:\Users\hamza\Desktop\C# Full Course\Projects\AsyncProject\AdvancedAsyncProject\AdvancedAsyncAwait\AdvancedAsyncAwait\obj\Debug\AdvancedAsyncAwait.pdb
